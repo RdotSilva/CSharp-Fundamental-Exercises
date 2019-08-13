@@ -11,7 +11,7 @@ namespace ControlFlow
     // If the user guesses the number, display “You won"; otherwise, display “You lost".
     // (To make sure the program is behaving correctly, you can display the secret number on the console first.)
     {
-        static void Main(string[] args)
+        public void Exercise()
         {
             var num =  new Random().Next(1, 10);
 
