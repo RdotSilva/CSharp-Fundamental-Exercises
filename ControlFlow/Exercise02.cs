@@ -8,6 +8,7 @@ namespace ControlFlow
 {
     class Exercise02
     {
+        // Write a program which takes two numbers from the console and displays the maximum of the two.
         public void Exercise()
         {
             Console.Write("Enter 1st number: ");
