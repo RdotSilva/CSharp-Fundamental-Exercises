@@ -15,7 +15,7 @@ namespace ArraysAndLists
     // Write a program and continuously ask the user to enter different names, until the user presses Enter (without supplying a name).
     // Depending on the number of names provided, display a message based on the above pattern.
     {
-        static void Main(string[] args)
+        public void Exercise()
         {
             var nameList = new List<string>();
             
